@@ -1,0 +1,33 @@
+Dataset,Column,Missing
+World Cup Matches,Year,3720
+World Cup Matches,Datetime,3720
+World Cup Matches,Stage,3720
+World Cup Matches,Stadium,3720
+World Cup Matches,City,3720
+World Cup Matches,Home Team Name,3720
+World Cup Matches,Home Team Goals,3720
+World Cup Matches,Away Team Goals,3720
+World Cup Matches,Away Team Name,3720
+World Cup Matches,Win conditions,3720
+World Cup Matches,Attendance,3722
+World Cup Matches,Half-time Home Goals,3720
+World Cup Matches,Half-time Away Goals,3720
+World Cup Matches,Referee,3720
+World Cup Matches,Assistant 1,3720
+World Cup Matches,Assistant 2,3720
+World Cup Matches,RoundID,3720
+World Cup Matches,MatchID,3720
+World Cup Matches,Home Team Initials,3720
+World Cup Matches,Away Team Initials,3720
+ELO Ratings,date,0
+ELO Ratings,team,0
+ELO Ratings,rating,31
+ELO Ratings,change,0
+FIFA Rankings,date,0
+FIFA Rankings,semester,0
+FIFA Rankings,rank,0
+FIFA Rankings,team,0
+FIFA Rankings,acronym,0
+FIFA Rankings,total.points,0
+FIFA Rankings,previous.points,0
+FIFA Rankings,diff.points,0
